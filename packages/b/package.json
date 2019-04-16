@@ -1,6 +1,6 @@
 {
   "name": "cyy-b",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "cyy",
   "license": "ISC",
   "dependencies": {
-    "cyy-a": "^0.0.2"
+    "cyy-a": "^0.0.3"
   }
 }
