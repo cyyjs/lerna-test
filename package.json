@@ -3,5 +3,10 @@
   "private": true,
   "devDependencies": {
     "lerna": "^3.13.2"
+  },
+  "dependencies": {
+    "cyy-a": "file:packages/a",
+    "cyy-b": "file:packages/b",
+    "cyy-c": "file:packages/c"
   }
 }
