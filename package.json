@@ -8,5 +8,15 @@
     "cyy-a": "file:packages/a",
     "cyy-b": "file:packages/b",
     "cyy-c": "file:packages/c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cyyjs/lerna-test.git"
+  },
+  "changelog": {
+    "labels": {
+      "feature": "New Feature",
+      "bug": "Bug Fix"
+    }
   }
 }

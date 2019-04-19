@@ -9,6 +9,7 @@
   "author": "cyy",
   "license": "ISC",
   "dependencies": {
-    "cyy-a": "file:../a"
+    "cyy-a": "file:../a",
+    "eslint": "^5.16.0"
   }
 }
