@@ -9,7 +9,8 @@
   "author": "cyy",
   "license": "ISC",
   "dependencies": {
-    "cyy-a": "file:../a",
+    "cyy-a": "^1.0.2",
     "eslint": "^5.16.0"
-  }
+  },
+  "gitHead": "29420849cccc7f76a30be14bf6504c920caf6162"
 }
