@@ -1,5 +1,5 @@
 {
-  "name": "d",
+  "name": "cyy-d",
   "version": "1.0.3",
   "description": "> TODO: description",
   "author": "cyy <cuiyuanyuan@shuidihuzhu.com>",
@@ -26,5 +26,5 @@
   "dependencies": {
     "eslint": "^5.16.0"
   },
-  "gitHead": "29420849cccc7f76a30be14bf6504c920caf6162"
+  "gitHead": "d53d777d5bdfa9bc3095186b9fc48bea283f1c37"
 }
