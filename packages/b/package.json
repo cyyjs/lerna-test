@@ -1,6 +1,6 @@
 {
   "name": "cyy-b",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "cyy",
   "license": "ISC",
   "dependencies": {
-    "cyy-a": "^1.0.8",
+    "cyy-a": "^1.0.9",
     "eslint": "^5.16.0"
   },
   "gitHead": "d53d777d5bdfa9bc3095186b9fc48bea283f1c37"
