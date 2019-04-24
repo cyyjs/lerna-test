@@ -16,11 +16,5 @@
   },
   "scripts": {
     "prepublish": "lerna publish --yes"
-  },
-  "changelog": {
-    "labels": {
-      "feature": "New Feature",
-      "bug": "Bug Fix"
-    }
   }
 }
