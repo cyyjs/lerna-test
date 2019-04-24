@@ -1,5 +1,6 @@
 {
   "name": "cyy-root",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "lerna": "^3.13.2"
