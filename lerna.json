@@ -2,14 +2,20 @@
   "packages": [
     "packages/*"
   ],
-  "changelog": {
-    "labels": {
-      "feat": ":rocket: New Feature",
-      "bug": ":bug: Bug Fix",
-      "doc": ":memo: Documentation",
-      "internal": ":house: Internal",
-      "breaking": ":boom: Breaking Change"
+  "command": {
+    "version": {
+      "conventionalCommits": true
     }
   },
-  "version": "1.0.7"
+  "changelog": {
+    "labels": {
+      "feat": ":rocket: 新功能",
+      "bug": ":bug: 修复Bug",
+      "docs": ":memo: 文档",
+      "delete": ":ghost: 删除无效代码",
+      "test": ":fire: 增加测试",
+      "style": ":art: 修改样式"
+    }
+  },
+  "version": "1.0.8"
 }
