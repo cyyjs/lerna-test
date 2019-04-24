@@ -1,5 +1,6 @@
 {
-  "name": "root",
+  "name": "cyy-root",
+  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "lerna": "^3.13.2"
@@ -14,12 +15,6 @@
     "url": "git@github.com:cyyjs/lerna-test.git"
   },
   "scripts": {
-    "push": "lerna publish --yes"
-  },
-  "changelog": {
-    "labels": {
-      "feature": "New Feature",
-      "bug": "Bug Fix"
-    }
+    "prepublish": "lerna publish --yes"
   }
 }
