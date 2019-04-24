@@ -2,11 +2,6 @@
   "packages": [
     "packages/*"
   ],
-  "command": {
-    "version": {
-      "conventionalCommits": true
-    }
-  },
   "changelog": {
     "labels": {
       "feat": ":rocket: 新功能",
