@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/cyyjs/lerna-test/compare/v1.1.0...v1.1.1) (2019-04-25)
+
+
+### Features
+
+* version.allowBreach ([ddbb630](https://github.com/cyyjs/lerna-test/commit/ddbb630))
+* version.allowBreach ([3133ec6](https://github.com/cyyjs/lerna-test/commit/3133ec6))
+
+
+
+
+
 # [1.1.0](https://github.com/cyyjs/lerna-test/compare/v1.0.10...v1.1.0) (2019-04-25)
 
 
