@@ -5,7 +5,6 @@
   "command": {
     "version": {
       "allowBranch": "master",
-      "amend": true,
       "conventionalCommits": true
     }
   },
