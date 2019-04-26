@@ -19,6 +19,7 @@
     "prepublish": "lerna publish --yes"
   },
   "changelog": {
+    "repo": "cyyjs/lerna-test/",
     "labels": {
       "feat": ":rocket: New Feature",
       "bug": ":bug: Bug Fix",
