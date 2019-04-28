@@ -5,18 +5,13 @@
   "command": {
     "version": {
       "allowBranch": "master",
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "exact": true
     }
   },
-  "changelog": {
-    "labels": {
-      "feat": ":rocket: 新功能",
-      "bug": ":bug: 修复Bug",
-      "docs": ":memo: 文档",
-      "delete": ":ghost: 删除无效代码",
-      "test": ":fire: 增加测试",
-      "style": ":art: 修改样式"
-    }
-  },
-  "version": "1.2.1"
+  "ignoreChanges": [
+    "**/__tests__/**",
+    "**/*.md"
+  ],
+  "version": "1.2.0"
 }
