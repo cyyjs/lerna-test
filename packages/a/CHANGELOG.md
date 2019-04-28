@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/cyyjs/lerna-test/compare/v1.2.4...v1.3.0) (2019-04-28)
+
+
+### Features
+
+* xx1 ([3255926](https://github.com/cyyjs/lerna-test/commit/3255926))
+
+
+
+
+
 ## [1.2.1](https://github.com/cyyjs/lerna-test/compare/v1.2.0...v1.2.1) (2019-04-26)
 
 **Note:** Version bump only for package cyy-a
