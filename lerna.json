@@ -6,7 +6,6 @@
     "version": {
       "allowBranch": "master",
       "conventionalCommits": true,
-      "amend": true,
       "exact": true
     }
   },
