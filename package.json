@@ -15,17 +15,16 @@
     "url": "git@github.com:cyyjs/lerna-test.git"
   },
   "scripts": {
-    "changelog": "lerna-changelog",
-    "prepublish": "lerna publish --yes"
+    "changelog": "lerna-changelog"
   },
   "changelog": {
-    "repo": "cyyjs/lerna-test/",
     "labels": {
-      "feat": ":rocket: New Feature",
-      "bug": ":bug: Bug Fix",
-      "doc": ":memo: Documentation",
-      "internal": ":house: Internal",
-      "breaking": ":boom: Breaking Change"
+      "feat": ":rocket: 新功能",
+      "bug": ":bug: 修复Bug",
+      "docs": ":memo: 文档",
+      "delete": ":ghost: 删除无效代码",
+      "test": ":fire: 增加测试",
+      "style": ":art: 修改样式"
     }
   }
 }
